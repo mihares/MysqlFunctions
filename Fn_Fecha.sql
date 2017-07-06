@@ -1,3 +1,4 @@
+
 CREATE DEFINER=`root`@`localhost` FUNCTION `Fn_Fecha`(
   `Fecha`  datetime,
   `tipo`   tinyint(1)
